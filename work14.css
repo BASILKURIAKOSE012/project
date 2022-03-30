@@ -1,0 +1,137 @@
+#v1{
+    background-color:white;
+    color: #5e068f;
+    text-align: center;
+    height: 70px;
+    margin-top: px;
+      
+}
+#v25{
+    margin-top: 100px;
+}
+
+#v2{
+    font-weight:normal;
+    font-size :30px;
+}
+#v3{
+    color: #5e068f;
+    font-size: 30px;
+    font-weight: lighter;
+}
+#v11,#v14{
+    background-color:white;
+    height: 400px;
+}
+#v12,#v13{
+    background-color: white;
+    height: 400px;
+}
+#i9{
+    width: 100%;
+    height:400px;
+}
+#v13{
+    padding-top: 120px;
+
+}
+#w2:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#i10,#i11,#i12{
+    height: 100px;
+    width: 50%;
+}
+#d66{
+    margin-top: 10px;
+}
+
+#q1:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#q2:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#q3:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#v5{
+    height: 200px;
+    background-color: white;
+}
+#v6{
+    margin-top: 40px;
+    width: 150px;
+    height: 60px;
+    color:#5e068a;
+    background-color: white;
+    border-radius: 40px;
+    border: solid 2px #5e068a;
+    font-weight: bolder;
+}
+#v6:hover{ background-color:#5e068a;
+    color:white;
+    font-weight: bolder;
+
+}
+#v8{
+    color:brown;
+}
+#v9{
+    color:rgb(82, 34, 194) ;
+    font-size: 22px;
+    font-weight:normal
+}
+#w8{
+padding: 5%;
+
+}
+#w10{
+    border: none;
+}
+#w9{
+    border: none;
+}
+input{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    width: 100%;
+    
+}
+textarea{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    width: 100%;
+
+}
+#w56:hover{
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#w2:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#w13{
+    position: relative;
+}
+#w12{
+position: absolute;
+bottom: 2px;
+left: 20px;
+}
+#w2:hover{box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+#q1{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#q2{
+    margin-top: 5px;
+}
